@@ -1,0 +1,26 @@
+{
+  "name": "mtsa-web",
+  "version": "1.0.0",
+  "description": "The new MTSA website",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TuOfTimes/mtsa-web.git"
+  },
+  "author": "Edward Tu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TuOfTimes/mtsa-web/issues"
+  },
+  "homepage": "https://github.com/TuOfTimes/mtsa-web#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.13.1",
+    "nodemon": "^2.0.2"
+  }
+}
